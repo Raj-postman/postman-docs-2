@@ -127,6 +127,8 @@ You will then be able to select **Download** to retrieve your archived data.
 
 Alternatively, you can download your archived data directly within the Postman App. To learn how, refer to [Settings](/docs/postman/launching-postman/settings/).
 
+**Note: The archive.json is not a collection that is supposed to be imported, it's just an index/directory of other files present in that zip. The collections folder contains all the files that need to be imported**
+
 ## Next steps
 
 For a more in-depth introduction to workspaces and how they can help organize your API development, check out [Intro to Workspaces](/docs/postman/workspaces/intro-to-workspaces/).
