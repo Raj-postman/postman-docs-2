@@ -67,6 +67,8 @@ Your Collection is pushed to your GitLab project under the filename that you spe
 
    [![gitlab advanced options](https://assets.postman.com/postman-docs/integrations-gitlab-advOptions1.png)](https://assets.postman.com/postman-docs/integrations-gitlab-advOptions1.png)
 
+**Note:** Integrated API collection with Gitlab is considered as one integration.
+
 ## Backup your Postman Collections to GitLab on a custom domain
 
 1. Click the **Add Integration** button to enter your Gitlab token to start the integration.
